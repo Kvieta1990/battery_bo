@@ -1,0 +1,6 @@
+backend/.env
+backend/.venv
+test/
+synthesis_data/
+battery_data/
+bo_runs/
